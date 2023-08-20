@@ -38,5 +38,17 @@ To develop a rice recommendation and prediction system by adopting ML techniques
 **Methodology**
 
 The overall project design focuses on conducting quantitative experiments with empirical evaluations, as the data collected primarily consists of quantitative data that will undergo predictive analysis using statistical ML algorithms to model the predictions. This will be done through the following diagrammatic flowchart, outlining the specific objectives achieved at each stage.
-![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/6415a279-087f-4eb9-a15d-48c7821c3675)
+![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/4894aa1e-989e-4827-b761-fb8ac7a8c5bb)
+
+
+**Implementation**
+
+Each of the respective hyperparameter values were set to the default minimum provided by Python's "scikit-learn" module
+
+*Note: the baseline tree-based classifiers turned out to perform exceptionally well with almost 100% accuracies. Hence, no further hyperparameter tuning was conducted on it. Only tree-based regressors were subjected to hyperparameter tuning*
+
+![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/ac3f3dec-bc34-4c6b-b43c-1e7962e3a661)
+
+![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/097b5416-02f3-4a16-876c-7e28a0047aee)
+
 
