@@ -63,8 +63,9 @@ Each of the respective hyperparameter values were set to the default minimum pro
 **Model Performances**
 ![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/344c885f-5826-4734-9097-9b729b39d0a3)
 - All the classifier models performed exceptionally well, with accuracy and AUC scores of more than 99% and 0.995 respectively -> indidicating excellent discriminatory power in distinguishing rice and non-rice instances.
-- The DT classifier model however, was observed to slightly underperformed in comparison with its peers. As for the RF and GBT classifier models, both were found to have identical performance rates in terms of their accuracy, precision, recall and AUC scores. This suggest that both models were equally effective in classifying between the positive (rice) and negative (non-rice) instances.
-- That being said, based on the variable importance results generated, the RF classifier model's variable importance score align more closely with the actual rice cultivation scenario, as it demonstrated a more well-represented variable importance amongst all input variables
+- The DT classifier model was observed to slightly underperformed in comparison with its peers.
+- As for the RF and GBT classifier models, both were found to have identical performance rates in terms of their accuracy, precision, recall and AUC scores. This suggest that both models were equally effective in classifying between the positive (rice) and negative (non-rice) instances.
+- That being said, based on the variable importance results generated, the RF classifier model's variable importance score aligns more closely with the actual rice cultivation scenario, as it demonstrated a more well-represented variable importance amongst all input variables
 - As such, it will be selected as the optimal model candidate to be deployed for recommending rice cultivation suitability in the system.
 - Another thing to note is that for all 3 models, the Rainfall variable is seen to have the highest influence on the prediction, followed by Nitrogen nutrient content and humidity. This pattern made sense in the expect of cultivating rice, as rice is very heavily dependent on high amounts of rainfall and humidity for a successful growth.
 - Moreover, previous research has indicated that Nitrogen is the primary nutrient content for rice cultivation among NPK, and its ratio is typically used at least two times more than that of Phosphorus and Potassium.
@@ -74,9 +75,9 @@ Each of the respective hyperparameter values were set to the default minimum pro
 ![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/736a7390-8f0d-4cc3-8c7e-bd53b2de6525)
 ![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/4a3fbfc3-7bbd-4222-a6f5-a61cdbf83129)
 - The best performing regression model = GBT.
-- However, as it was found to be underfitted it will not be selected as the optimal model candidate.
-- Instead, the RF regressor will be selected as the optimal model candidate to be deployed for predicting rice yields in the system, as it performed the 2nd best with the least model fitness.
-- The tuned GBT regressor model managed to achieve a RMSE, MAPE, and R2 value of 2998.27, 5.91% and 0.885 respectively. 
+- However, as it was found to be underfitted and will not be selected as the optimal model candidate.
+- Instead, the RF regressor will be selected as the optimal model candidate to be deployed for predicting rice yields in the system, as it performed the 2nd best with the best model fitness.
+- The tuned RF regressor model managed to achieve a RMSE, MAPE, and R2 value of 2998.27, 5.91% and 0.885 respectively. 
 - In other words, the model was predicting the rice yield with a ±2998.27 hg/ha deviation, resulting in an average error rate of 5.91%. 
 - At the same time, the model’s input variables explained nearly 90% of the variance in rice yield prediction.
 
@@ -84,7 +85,7 @@ Each of the respective hyperparameter values were set to the default minimum pro
 
 **GUI system Results**
 
-Rice Recommendation Section of System
+Rice Recommendation Section of System:
 ![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/e716b171-d042-44f9-9464-89a0970e535e)
 
 ![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/1d876bdd-b162-4047-b3bd-e379b0ffaec6)
@@ -92,7 +93,7 @@ Rice Recommendation Section of System
 ![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/bbc7bdc4-b39a-4039-aaa4-112c38461710)
 
 
-Rice Prediction Section of System
+Rice Prediction Section of System:
 ![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/62f71c70-172f-4ce5-8b90-e15a69bbc35f)
 
 ![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/49c76814-4c1a-4eaf-83ab-2597a2c1f252)
@@ -115,7 +116,7 @@ Rice Prediction Section of System
 
 
 
-*Significance & Contribution:*
+*Significance & Contributions:*
 
 - The development of the rice recommendation and prediction system will revolutionize Malaysia's rice farming practices, by equipping Malaysian rice farmers with the ability to accurately predict whether rice can be cultivated in their fields and forecast its potential yields. 
 
