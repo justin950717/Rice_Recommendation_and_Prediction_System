@@ -11,6 +11,7 @@ This is my Master's capstone project titled: ADOPTING MACHINE LEARNING TECHNIQUE
    
 
 **Aim**
+
 To develop a rice recommendation and prediction system by adopting ML techniques based on IoT data for effective rice cultivation in Malaysia.
 
 
