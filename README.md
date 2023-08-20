@@ -41,7 +41,7 @@ The overall project design focuses on conducting quantitative experiments with e
 ![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/4894aa1e-989e-4827-b761-fb8ac7a8c5bb)
 
 
-**Implementation**
+**Model Implementation**
 
 Each of the respective hyperparameter values were set to the default minimum provided by Python's "scikit-learn" module
 
@@ -59,7 +59,7 @@ Each of the respective hyperparameter values were set to the default minimum pro
 ![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/09a7bd0a-c1ad-4c91-9c84-517749e63a8c)
 ![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/e69b69b3-ea51-4991-8433-7c558d6f950b)
 
-**GUI system Result**
+**GUI system Results**
 ![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/63c47fde-5458-40ac-8957-8d3c9e021d73)
 ![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/b189736e-983b-426a-b9f3-3b0bb70f8f97)
 
@@ -89,7 +89,11 @@ Each of the respective hyperparameter values were set to the default minimum pro
 -The contributions of this project will not only ease and educate rice cultivation among local farmers but will also potentially lead to increased yields and profits. With such benefits, the hope is to encourage more Malaysians to uptake rice farming and reduce the nation's reliance on rice imports for the sake of food security.
 
 
+***Note: Below is repository legend for easier naviagation***
 
+Repository Legend:
+1.  Datasets -> folder consisting of all datsets utilized in this project (including a dataset readme file)
+2.  Project -> Capstone project python codes
 
 
 
