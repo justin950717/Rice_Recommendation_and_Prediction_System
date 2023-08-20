@@ -34,3 +34,9 @@ To develop a rice recommendation and prediction system by adopting ML techniques
 4. To evaluate each model’s performances in carrying out its specific task. 
 5. To  deploy the identified optimal models as a comprehensive rice recommendation and prediction system.
 
+
+**Methodology**
+
+The overall project design focuses on conducting quantitative experiments with empirical evaluations, as the data collected primarily consists of quantitative data that will undergo predictive analysis using statistical ML algorithms to model the predictions. This will be done through the following diagrammatic flowchart, outlining the specific objectives achieved at each stage.
+![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/6415a279-087f-4eb9-a15d-48c7821c3675)
+
