@@ -52,11 +52,19 @@ Each of the respective hyperparameter values were set to the default minimum pro
 ![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/097b5416-02f3-4a16-876c-7e28a0047aee)
 
 
-**Performances & Results**
-![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/31c38ca1-3257-4599-9823-81e54471fa96)
+**Model Performances**
+![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/344c885f-5826-4734-9097-9b729b39d0a3)
+
 
 ![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/09a7bd0a-c1ad-4c91-9c84-517749e63a8c)
 ![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/e69b69b3-ea51-4991-8433-7c558d6f950b)
+
+**GUI system Result**
+![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/63c47fde-5458-40ac-8957-8d3c9e021d73)
+![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/b189736e-983b-426a-b9f3-3b0bb70f8f97)
+
+![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/37673b3d-1a65-4d60-96bf-89ba7a799cd6)
+![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/0ecfdad2-7e35-4e6e-958d-4559f2943f8a)
 
 
 **Conclusion**
