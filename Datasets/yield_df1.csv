@@ -1,0 +1,102 @@
+Area,Item,Year,hg/ha_yield,average_rain_fall_mm_per_year,avg_temp,Planted Area (Hectare)
+El Salvador,"Rice, paddy",2012,63968,1784,26.04,4000
+El Salvador,"Rice, paddy",2013,61615,1955.5,26.36,6000
+El Salvador,"Rice, paddy",2014,73000,1491.11,25.38,7000
+El Salvador,"Rice, paddy",2015,60000,1607.04,25.71,6000
+El Salvador,"Rice, paddy",2016,63000,1679.37,25.75,4000
+El Salvador,"Rice, paddy",2017,70000,1695.22,25.57,4000
+El Salvador,"Rice, paddy",2018,73000,1575.76,25.04,4000
+El Salvador,"Rice, paddy",2019,58000,1381.12,25.51,4000
+El Salvador,"Rice, paddy",2020,63000,1711.56,25.79,4000
+El Salvador,"Rice, paddy",2021,50000,1658.46,25.56,4000
+Guinea,"Rice, paddy",2012,12000,2905.75,27.28,1000000
+Guinea,"Rice, paddy",2013,12500,2302.55,27.29,1671000
+Guinea,"Rice, paddy",2014,12000,2306.46,25.85,1691000
+Guinea,"Rice, paddy",2015,12000,1802.59,26.05,1706000
+Guinea,"Rice, paddy",2016,13000,2282.9,26.3,1668000
+Guinea,"Rice, paddy",2017,12000,2391.49,26.23,1806000
+Guinea,"Rice, paddy",2018,13000,2519.33,26.08,1860000
+Guinea,"Rice, paddy",2019,13000,2669.7,25.84,1767000
+Guinea,"Rice, paddy",2020,15000,2278.17,26.33,1673000
+Guinea,"Rice, paddy",2021,15000,2466.59,26.59,1650000
+Indonesia,"Rice, paddy",2012,51360,2702,25.59,12190000
+Indonesia,"Rice, paddy",2013,51520,2908.12,25.48,12100000
+Indonesia,"Rice, paddy",2014,47000,2601.32,26.04,11830000
+Indonesia,"Rice, paddy",2015,47000,2482.19,26.12,12100000
+Indonesia,"Rice, paddy",2016,48000,2947.5,26.23,12240000
+Indonesia,"Rice, paddy",2017,48000,3017.2,26.03,12500000
+Indonesia,"Rice, paddy",2018,47000,2823.96,26.04,15000000
+Indonesia,"Rice, paddy",2019,47000,2512.99,26.2,11600000
+Indonesia,"Rice, paddy",2020,48000,2999.83,26.18,11400000
+Indonesia,"Rice, paddy",2021,47000,3087.72,25.99,11600000
+Malaysia,"Rice, paddy",1980,28521,3026.67,25.83,716873
+Malaysia,"Rice, paddy",1981,28418,2895.66,25.98,710789
+Malaysia,"Rice, paddy",1982,27616,2553.19,25.98,682070
+Malaysia,"Rice, paddy",1983,26048,2662.17,26.27,665813
+Malaysia,"Rice, paddy",1984,24914,3317.38,25.59,630833
+Malaysia,"Rice, paddy",1985,29753,2828.8,25.78,656375
+Malaysia,"Rice, paddy",1986,26399,2761.5,25.88,650875
+Malaysia,"Rice, paddy",1987,24686,2639.08,26.24,658954
+Malaysia,"Rice, paddy",1988,25251,3284.54,26.08,671755
+Malaysia,"Rice, paddy",1989,26251,2708.12,25.86,664137
+Malaysia,"Rice, paddy",1990,27694,2415.85,27.21,680647
+Malaysia,"Rice, paddy",1991,28178,2656.63,27.04,683640
+Malaysia,"Rice, paddy",1992,29918,2448.28,27.05,672753
+Malaysia,"Rice, paddy",1993,30348,2807.68,26.99,693434
+Malaysia,"Rice, paddy",1994,30614,2966.26,27,698624
+Malaysia,"Rice, paddy",1995,31619,3199.47,27.05,672787
+Malaysia,"Rice, paddy",1996,32510,3179.93,27.04,685468
+Malaysia,"Rice, paddy",1997,30676,2506.13,27.29,690975
+Malaysia,"Rice, paddy",1998,28829,2647.41,27.89,674404
+Malaysia,"Rice, paddy",1999,29415,3415.41,26.95,692389
+Malaysia,"Rice, paddy",2000,30640,3270.83,27.14,698702
+Malaysia,"Rice, paddy",2001,31101,2973.96,27.24,673634
+Malaysia,"Rice, paddy",2002,32385,2625.94,27.57,678544
+Malaysia,"Rice, paddy",2004,33260,3111.67,27.35,671820
+Malaysia,"Rice, paddy",2005,34221,2785.82,27.59,676310
+Malaysia,"Rice, paddy",2006,33907,2789.03,27.29,666781
+Malaysia,"Rice, paddy",2007,35277,3111.61,27.23,676034
+Malaysia,"Rice, paddy",2008,35836,3580.21,27.12,676111
+Malaysia,"Rice, paddy",2009,37205,3404.89,27.47,656602
+Malaysia,"Rice, paddy",2010,36361,3104.02,27.69,674928
+Malaysia,"Rice, paddy",2011,37468,3444.4,27.27,677884
+Malaysia,"Rice, paddy",2012,37972,3222.63,27.36,687940
+Malaysia,"Rice, paddy",2013,38763,3095.04,27.8,684545
+Malaysia,"Rice, paddy",2014,41938,2808.68,26.4,679239
+Malaysia,"Rice, paddy",2015,40223,2661.86,26.64,681559
+Malaysia,"Rice, paddy",2016,39775,2829.83,26.92,688770
+Malaysia,"Rice, paddy",2017,37496,3262.68,26.48,685548
+Malaysia,"Rice, paddy",2018,37697,3242.88,26.52,700306
+Malaysia,"Rice, paddy",2019,42550,2598.71,26.79,684416
+Malaysia,"Rice, paddy",2020,41000,3053.99,26.67,680000
+Malaysia,"Rice, paddy",2021,40000,3297.34,26.46,650000
+Sri Lanka,"Rice, paddy",2012,36057,1712,26.88,937000
+Sri Lanka,"Rice, paddy",2013,38897,1520.71,27.03,924000
+Sri Lanka,"Rice, paddy",2014,43000,1852.65,27.39,931000
+Sri Lanka,"Rice, paddy",2015,43000,2321.39,27.35,1097000
+Sri Lanka,"Rice, paddy",2016,44000,1419.29,27.72,686000
+Sri Lanka,"Rice, paddy",2017,44000,1675.3,27.45,769000
+Sri Lanka,"Rice, paddy",2018,43000,1780.49,27.34,974000
+Sri Lanka,"Rice, paddy",2019,47000,1864.93,27.68,973000
+Sri Lanka,"Rice, paddy",2020,48000,1610.83,27.66,1085000
+Sri Lanka,"Rice, paddy",2021,46000,2038.73,27.41,1130000
+Suriname,"Rice, paddy",2012,43622,2331,27.4,51000
+Suriname,"Rice, paddy",2013,44965,2607.71,27.17,58000
+Suriname,"Rice, paddy",2014,45000,2118.03,26.61,62000
+Suriname,"Rice, paddy",2015,45000,2412.88,26.97,59000
+Suriname,"Rice, paddy",2016,44000,2209.43,26.91,63000
+Suriname,"Rice, paddy",2017,49000,2324.12,26.75,59000
+Suriname,"Rice, paddy",2018,49000,2359.65,26.53,56000
+Suriname,"Rice, paddy",2019,46000,1949.02,26.84,60000
+Suriname,"Rice, paddy",2020,46000,2107.64,26.9,62000
+Suriname,"Rice, paddy",2021,48000,2915.95,26.56,60000
+Thailand,"Rice, paddy",2012,28000,1620,27.17,10837000
+Thailand,"Rice, paddy",2013,28000,1610.65,26.81,10920000
+Thailand,"Rice, paddy",2014,28000,1517.17,26.91,10270000
+Thailand,"Rice, paddy",2015,25000,1682.33,27.31,9444000
+Thailand,"Rice, paddy",2016,28000,1622,27.43,10247000
+Thailand,"Rice, paddy",2017,29000,1556.22,26.94,10756000
+Thailand,"Rice, paddy",2018,28000,1578.38,26.92,10830000
+Thailand,"Rice, paddy",2019,27000,1593.42,27.52,9890000
+Thailand,"Rice, paddy",2020,27000,1630.56,27.43,10509000
+Thailand,"Rice, paddy",2021,28000,1650.94,26.91,10702000

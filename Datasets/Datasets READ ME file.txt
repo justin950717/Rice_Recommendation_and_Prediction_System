@@ -1,0 +1,4 @@
+1. Crop_recommendation.csv = Rice Recommendation dataset
+2. Malaysia_rice_statistics_1980-2019(data.go.my) = Supporting dataset
+3. yield_df = Raw Rice Prediction dataset
+4. yield_df1 = Pre-processed Rice Prediction dataset
