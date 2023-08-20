@@ -70,6 +70,7 @@ Each of the respective hyperparameter values were set to the default minimum pro
 
 
 **GUI system Results**
+
 Rice Recommendation Section of System
 ![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/e716b171-d042-44f9-9464-89a0970e535e)
 
