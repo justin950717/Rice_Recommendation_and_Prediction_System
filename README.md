@@ -6,9 +6,7 @@ This is my Master's capstone project titled: ADOPTING MACHINE LEARNING TECHNIQUE
 
 **Problem Statement**
 1. Malaysia rice industry still lacks behind in terms of agricultural technology.
-
 2. Malaysian rice farmers are still unaware of the ideal key features needed for effective rice cultivation.
-
 3. Malaysia's weather patterns can fluctuate drastically between monsoon and off-monsoon seasons, resulting in varying environmental and soil conditions.
    
 
@@ -27,15 +25,11 @@ To develop a rice recommendation and prediction system by adopting ML techniques
 
 **Scope**
 1. To collect rice cultivation datasets either in the Malaysian context or similar region. 
-
 2. To do extensive literature review on:
-- The use of IoT technology in the improvement of crop yield.
-- Relevant key features for rice cultivation.
-- ML models and results done by previous researchers within the same domain.
-
+   - The use of IoT technology in the improvement of crop yield.
+   - Relevant key features for rice cultivation.
+   - ML models and results done by previous researchers within the same domain.
 3. To build and train ML models for recommending rice cultivation suitability as well as predicting rice potential yield.
-
 4. To evaluate each model’s performances in carrying out its specific task. 
-
 5. To  deploy the identified optimal models as a comprehensive rice recommendation and prediction system.
 
