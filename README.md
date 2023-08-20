@@ -56,11 +56,13 @@ Each of the respective hyperparameter values were set to the default minimum pro
 ![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/31c38ca1-3257-4599-9823-81e54471fa96)
 
 ![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/09a7bd0a-c1ad-4c91-9c84-517749e63a8c)
-![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/4760d4a9-4650-4301-bdb8-3ca2f2689e47)
+![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/e69b69b3-ea51-4991-8433-7c558d6f950b)
 
 
 **Conclusion**
+
 *Summary of findings*
+
 -Optimal ML models to be adopted in Malaysia’s rice farming sector = RF classifier and regressor models. Both models will be deployed in a GUI application that served as the engine for the rice recommendation and prediction system. 
 
 -The variable importance of the RF classifier reveals that the most crucial feature (variable) for successful rice cultivation is the volume of rainfall, followed by the Nitrogen nutrient content and humidity, as rice crops thrive in ample amounts of irrigation with high concentrations of Nitrogen nutrient contents. 
@@ -71,6 +73,7 @@ Each of the respective hyperparameter values were set to the default minimum pro
 
 
 *Significance & Contribution*
+
 -The development of the rice recommendation and prediction system will revolutionize Malaysia's rice farming practices, by equipping Malaysian rice farmers with the ability to accurately predict whether rice can be cultivated in their fields and forecast its potential yields. 
 
 -This project aligns with the Malaysia’s government plan to upscale its rice cultivation domain, as current challenges caused by climate change, population growth and insufficient rice productions, have given rise to the need to innovate Malaysia’s agricultural technologies with the aid of IoT and ML.
