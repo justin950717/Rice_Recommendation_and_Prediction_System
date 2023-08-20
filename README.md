@@ -52,3 +52,34 @@ Each of the respective hyperparameter values were set to the default minimum pro
 ![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/097b5416-02f3-4a16-876c-7e28a0047aee)
 
 
+**Performances & Results**
+![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/31c38ca1-3257-4599-9823-81e54471fa96)
+
+![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/09a7bd0a-c1ad-4c91-9c84-517749e63a8c)
+![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/4760d4a9-4650-4301-bdb8-3ca2f2689e47)
+
+
+**Conclusion**
+*Summary of findings*
+-Optimal ML models to be adopted in Malaysia’s rice farming sector = RF classifier and regressor models. Both models will be deployed in a GUI application that served as the engine for the rice recommendation and prediction system. 
+
+-The variable importance of the RF classifier reveals that the most crucial feature (variable) for successful rice cultivation is the volume of rainfall, followed by the Nitrogen nutrient content and humidity, as rice crops thrive in ample amounts of irrigation with high concentrations of Nitrogen nutrient contents. 
+
+-The variable importance of the GBT regressor reveals that the most influential feature for predicting rice yield is the area of the planted rice fields, since a larger planted land area ultimately leads to a greater yield production.
+
+-The tree-based classifier models performed exceptionally well due to the ease of modelling its training data. The accuracies of the tree-based classifiers even outperformed other classifier models used by previous research cited in the literature review. 
+
+
+*Significance & Contribution*
+-The development of the rice recommendation and prediction system will revolutionize Malaysia's rice farming practices, by equipping Malaysian rice farmers with the ability to accurately predict whether rice can be cultivated in their fields and forecast its potential yields. 
+
+-This project aligns with the Malaysia’s government plan to upscale its rice cultivation domain, as current challenges caused by climate change, population growth and insufficient rice productions, have given rise to the need to innovate Malaysia’s agricultural technologies with the aid of IoT and ML.
+
+-The contributions of this project will not only ease and educate rice cultivation among local farmers but will also potentially lead to increased yields and profits. With such benefits, the hope is to encourage more Malaysians to uptake rice farming and reduce the nation's reliance on rice imports for the sake of food security.
+
+
+
+
+
+
+
