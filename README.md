@@ -44,7 +44,7 @@ To develop a rice recommendation and prediction system by adopting ML techniques
 **Methodology**
 
 The overall project design focuses on conducting quantitative experiments with empirical evaluations, as the data collected primarily consists of quantitative data that will undergo predictive analysis using statistical ML algorithms to model the predictions. This will be done through the following diagrammatic flowchart, outlining the specific objectives achieved at each stage.
-![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/4894aa1e-989e-4827-b761-fb8ac7a8c5bb)
+![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/9cc4a22d-74d3-4688-991e-bd6a11b4374f)
 
 
 
@@ -64,18 +64,21 @@ Each of the respective hyperparameter values were set to the default minimum pro
 ![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/344c885f-5826-4734-9097-9b729b39d0a3)
 
 
-![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/09a7bd0a-c1ad-4c91-9c84-517749e63a8c)
-![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/e69b69b3-ea51-4991-8433-7c558d6f950b)
+![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/736a7390-8f0d-4cc3-8c7e-bd53b2de6525)
+![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/4a3fbfc3-7bbd-4222-a6f5-a61cdbf83129)
 
 
 
 **GUI system Results**
+Rice Recommendation Section of System
 ![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/e716b171-d042-44f9-9464-89a0970e535e)
 
 ![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/1d876bdd-b162-4047-b3bd-e379b0ffaec6)
 
 ![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/bbc7bdc4-b39a-4039-aaa4-112c38461710)
 
+
+Rice Prediction Section of System
 ![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/62f71c70-172f-4ce5-8b90-e15a69bbc35f)
 
 ![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/49c76814-4c1a-4eaf-83ab-2597a2c1f252)
