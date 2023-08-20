@@ -61,8 +61,10 @@ Each of the respective hyperparameter values were set to the default minimum pro
 
 **GUI system Results**
 ![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/e716b171-d042-44f9-9464-89a0970e535e)
-![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/63c47fde-5458-40ac-8957-8d3c9e021d73)
-![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/b189736e-983b-426a-b9f3-3b0bb70f8f97)
+![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/1d876bdd-b162-4047-b3bd-e379b0ffaec6)
+
+![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/bbc7bdc4-b39a-4039-aaa4-112c38461710)
+
 
 ![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/37673b3d-1a65-4d60-96bf-89ba7a799cd6)
 ![image](https://github.com/justin950717/Rice_Recommendation_and_Prediction_System/assets/95216403/0ecfdad2-7e35-4e6e-958d-4559f2943f8a)
